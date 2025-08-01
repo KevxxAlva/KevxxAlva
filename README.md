@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 
-![Visitas al Perfil](https://komarev.com/ghpvc/?username=AlexUrbina8&color=blue)
+![Visitas al Perfil](https://komarev.com/ghpvc/?username=KevxxAlva&color=blue)
 
 
 ```JS
