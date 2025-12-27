@@ -1,33 +1,32 @@
-# helloworld...|👋
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+###
 
+<img align="right" height="150" src="https://raw.githubusercontent.com/KevxxAlva/Kevinx-Web/refs/heads/main/public/Logo.png"  />
 
-![Visitas al Perfil](https://komarev.com/ghpvc/?username=KevxxAlva&color=blue)
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
 
-```JS
+###
 
-const aboutMe = {
-    name: "Kevin Quintero",
-    birthDate: "14/08/2006",
-    profession: "Student of Computer Engineering and Digital Business",
-    semester: 6,
-    hobbies: ["Programming", "Reading", "Videogames", "Hanging out with friends"],
-    skills: ["HTML", "CSS", "JS"],
-    contact: {
-        emails: ["kevinja1406@gmail.com"],
-        github: "https://github.com/KevxxAlva"
-    },
-    currentlyLearning: [
-        "Git", 
-        "Node.js", 
-        "NPM", 
-    ]
-};
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
 
-console.log(aboutMe);
-
-```
+###
