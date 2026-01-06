@@ -2,7 +2,8 @@
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/KevxxAlva/Kevinx-Web/refs/heads/main/public/Logo.png"  />
+<img width="409" height="610" alt="17677284400728638193270167578368" src="https://github.com/user-attachments/assets/31ca89e9-63d4-465c-9c6a-52610d4a6914" />
+
 
 ###
 
